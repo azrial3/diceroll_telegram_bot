@@ -6,7 +6,7 @@ An easy implementation of a Telegram bot for rolling the dice. Thanks to [@yagop
 
 There are two bots running this software and available for everyone in Telegram:
 
-- *[@DiceRollBot](http://telegram.me/RollDiceBot)* - English bot for rolling the dice
+- *[@AngelinaRoll_bot](http://telegram.me/AngelinaRoll_bot)* - English bot for rolling the dice
 - *[@TiraDausBot](http://telegram.me/TiraDausBot)* - Same bot for catalan speakers
 
 ## Usage
@@ -15,7 +15,7 @@ Just clone this repo and edit `config.json` file in order to change the bot API 
 
 ```json
 {
-  "telegram_api_token": "<your_api_token_here>",
+  "telegram_api_token": "<1334072597:AAGYKx-norgQ-2F2fAtFsh3ww7UUN9sKHtc>",
   "default_locale": "en"
 }
 ```
